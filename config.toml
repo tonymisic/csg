@@ -1,0 +1,19 @@
+baseURL = "http://compscigang.com"
+languageCode = "en-ca"
+title = "compscigang"
+theme = "hugo-theme-learn"
+
+[params]
+	editUrl = "https://github.com/mohoromitch/rucs-wiki/edit/master/exampleSite/"
+	author = "et al"
+	description = "Openly editable information repository by RUCS students, for RUCS students."
+	showVisitedLinks = false
+	disableSearch = false
+	disableAssetsBusting = false
+	disableInlineCopyToClipBoard = false
+	disableShortcutsTitle = false
+	disableLanguageSwitchingButton = true
+	ordersectionsby = "weight"
+	themeVariant = "blue"
+[outputs]
+	home = [ "HTML", "RSS", "JSON" ]
