@@ -19,3 +19,7 @@ hugo new --kind=chapter category/page_name.md
 ## Full Documentation
 
 For full documentation on creaiting new pages, refer to the [Hugo Learn Theme](https://learn.netlify.com/en/) documentation site.
+
+# Issues
+
+Should you have any comments or issues with the site, open an issue within the GitHub repository.
