@@ -4,7 +4,7 @@ title = "compscigang"
 theme = "hugo-theme-learn"
 
 [params]
-	editUrl = "https://github.com/mohoromitch/rucs-wiki/edit/master/exampleSite/"
+	editUrl = "https://github.com/mohoromitch/csg/edit/master/content/"
 	author = "et al"
 	description = "Openly editable information repository by RUCS students, for RUCS students."
 	showVisitedLinks = false
