@@ -13,7 +13,7 @@ Existing pages can be edited by clicking the "Edit this page" link on the viewed
 New pages can be created with the following command:
 
 ```
-hugo new --kind=chapter category/\_page_name.md
+hugo new --kind=chapter category/page_name.md
 ```
 
 ## Full Documentation
