@@ -1,0 +1,24 @@
+version: 0.2
+phases:
+  install: 
+    commands:
+      - git clone https://github.com/matcornic/hugo-theme-learn.git themes/hugo-theme-learn
+      - curl -L https://github.com/gohugoio/hugo/releases/latest | egrep -oe "\/gohugoio\/.+64bit.deb" | wget --base=https://github.com/ -i - -O hugo_64
+      - dpkg -i hugo_64
+      - apt-get update -y
+      - apt-get install tree
+      - apt-get install python-pip -y
+      - pip install Pygments
+  pre_build:
+    commands:
+      - rm hugo_64
+      - which hugo
+      - hugo version
+      - pip -V
+  build:
+    commands:
+      - hugo
+  post_build:
+    commands:
+      - tree public
+      - aws s3 sync public s3://compscigang.com
