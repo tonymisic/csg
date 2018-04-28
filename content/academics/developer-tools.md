@@ -41,6 +41,16 @@ Free infrastructure as a service (IaaS) for students provided free by Microsoft.
 
 Visit: [https://azure.microsoft.com/en-us/pricing/member-offers/student-starter/](https://azure.microsoft.com/en-us/pricing/member-offers/student-starter/)
 
+## Google Cloud Free Tier
+
+Not exactly a student program, but Google Platform has a free tier, and $300 in starting credits for all users.
+
+{{% notice note %}}
+The $300 in account starting credits are only valid for 12 months.
+{{% /notice %}}
+
+Visit: [https://cloud.google.com/free/](https://cloud.google.com/free/)
+
 ## Autodesk 
 
 Free access to the complete suite of Autodesk products.
