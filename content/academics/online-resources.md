@@ -13,7 +13,7 @@ The GitHub repository [sindresorhus/awesome](https://github.com/sindresorhus/awe
 
 >At LeetCode, our mission is to help you improve yourself and land your dream job. We have a sizable repository of interview resources for many companies. In the past few years, our users have landed jobs at top companies around the world.
 
-Online interactive repository of interview questions, many of which taken from technical programming interviews, including from the "Big 4". Leetcode also offers online programming competitions, mock interviews, problem discussion boards and problem solution articles.
+Online interactive repository of interview questions, many of which taken from technical programming interviews, including from the "Big 4". Leetcode also offers online programming competitions, [mock interviews](https://leetcode.com/mockinterview/), problem discussion boards and [problem solution articles](https://leetcode.com/articles/).
  
 [Homepage](https://leetcode.com)
 
