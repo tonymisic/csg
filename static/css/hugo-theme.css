@@ -57,7 +57,7 @@ body {
     content: "";
     height: 1px;
     width: 0%;
-    background-color: #0082a7; /*#CE3B2F*/
+    background-color: #0082a7; /*#CE3B2F*//
     -webkit-transition: width 0.5s ease;
     -moz-transition: width 0.5s ease;
     -ms-transition: width 0.5s ease;
@@ -172,19 +172,19 @@ h2 {
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   line-height: 110% !important;
   margin: 2rem 0 1rem 0;
 }
 
 h4 {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   line-height: 110% !important;
   margin: 1.5rem 0 0.75rem 0;
 }
 
 h5 {
-  font-size: 1rem;
+  font-size: 0.8rem;
   line-height: 110% !important;
   margin: 1rem 0 0.2rem 0;
 }
