@@ -17,7 +17,7 @@ Online interactive repository of interview questions, many of which taken from t
  
 [Homepage](https://leetcode.com)
 
-### Hackerrank
+### HackerRank
 
 Similar to LeetCode, has an online repository of interactive programming questions. Also holds online competitions. Progress made on the site can allow users to receive interviews with companies who use the site as a recruitment ground. Also contains lesson plans to help practice syntax of selected languages.
 
